@@ -14,15 +14,15 @@
 <br clear="both">
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Hilal-Anwar.Hilal-Anwar&"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=24F3004969.24F3004969&"  />
 </div>
 
 <h2 align="left">👨‍💻 About Me</h2>
 
 <p align="left">
 🔥 Passionate self-taught Java developer with a love for coding and game development<br>
-🎮 Creator of engaging games like <a href="https://github.com/Hilal-Anwar/AsciiChess">Ascii Chess</a>, <a href="https://github.com/Hilal-Anwar/FlappyBird">Flappy Bird</a>, and <a href="https://github.com/Hilal-Anwar/Tetris">Tetris</a><br>
-🧮 Currently exploring Computer Algebra Systems through <a href="https://github.com/Hilal-Anwar/JMaths">JMaths</a><br>
+🎮 Creator of engaging games like <a href="https://github.com/24F3004969/AsciiChess">Ascii Chess</a>, <a href="https://github.com/24F3004969/FlappyBird">Flappy Bird</a>, and <a href="https://github.com/24F3004969/Tetris">Tetris</a><br>
+🧮 Currently exploring Computer Algebra Systems through <a href="https://github.com/24F3004969/JMaths">JMaths</a><br>
 📱 Diving into Android and web development<br>
 ⚡ Building automation tools and innovative solutions<br>
 🚀 Always excited about creating management systems and algebraic calculators
@@ -106,30 +106,30 @@
     <tr>
       <td width="50%" valign="top">
         <h3>🎮 Game Development</h3>
-        <a href="https://github.com/Hilal-Anwar/AsciiChess">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Hilal-Anwar&repo=AsciiChess&theme=react&border_color=61dafb&border_radius=10" alt="Ascii Chess" />
+        <a href="https://github.com/24F3004969/AsciiChess">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=24F3004969&repo=AsciiChess&theme=react&border_color=61dafb&border_radius=10" alt="Ascii Chess" />
         </a>
         <br><br>
-        <a href="https://github.com/Hilal-Anwar/Flappy_Bird_ascii">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Hilal-Anwar&repo=Flappy_Bird_ascii&theme=react&border_color=61dafb&border_radius=10" alt="Flappy Bird" />
+        <a href="https://github.com/24F3004969/Flappy_Bird_ascii">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=24F3004969&repo=Flappy_Bird_ascii&theme=react&border_color=61dafb&border_radius=10" alt="Flappy Bird" />
         </a>
         <br><br>
-        <a href="https://github.com/Hilal-Anwar/Tetris">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Hilal-Anwar&repo=Tetris&theme=react&border_color=61dafb&border_radius=10" alt="Tetris" />
+        <a href="https://github.com/24F3004969/Tetris">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=24F3004969&repo=Tetris&theme=react&border_color=61dafb&border_radius=10" alt="Tetris" />
         </a>
       </td>
       <td width="50%" valign="top">
         <h3>🧮 Development Tools</h3>
-        <a href="https://github.com/Hilal-Anwar/JMaths">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Hilal-Anwar&repo=JMaths&theme=react&border_color=61dafb&border_radius=10" alt="JMaths" />
+        <a href="https://github.com/24F3004969/JMaths">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=24F3004969&repo=JMaths&theme=react&border_color=61dafb&border_radius=10" alt="JMaths" />
         </a>
         <br><br>
-        <a href="https://github.com/Hilal-Anwar/Android_Calculator">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Hilal-Anwar&repo=Android_Calculator&theme=react&border_color=61dafb&border_radius=10" alt="Android Calculator" />
+        <a href="https://github.com/24F3004969/Android_Calculator">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=24F3004969&repo=Android_Calculator&theme=react&border_color=61dafb&border_radius=10" alt="Android Calculator" />
         </a>
         <br><br>
-        <a href="https://github.com/Hilal-Anwar/Calculator">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Hilal-Anwar&repo=Calculator&theme=react&border_color=61dafb&border_radius=10" alt="Calculator" />
+        <a href="https://github.com/24F3004969/Calculator">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=24F3004969&repo=Calculator&theme=react&border_color=61dafb&border_radius=10" alt="Calculator" />
         </a>
       </td>
     </tr>
@@ -138,10 +138,10 @@
 
 <h3 align="center">📚 Educational Resources</h3>
 <div align="center">
-  <a href="https://github.com/Hilal-Anwar/KotlinTutorials">
+  <a href="https://github.com/24F3004969/KotlinTutorials">
     <img src="https://img.shields.io/badge/Kotlin%20Tutorials-0095D5?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin Tutorials" />
   </a>
-  <a href="https://github.com/Hilal-Anwar/CProjectMake">
+  <a href="https://github.com/24F3004969/CProjectMake">
     <img src="https://img.shields.io/badge/C%2FC%2B%2B%20Tutorials-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C/C++ Tutorials" />
   </a>
 </div>
@@ -163,7 +163,7 @@
 </p>
 
 <div align="center">
-  <a href="https://github.com/Hilal-Anwar">
+  <a href="https://github.com/24F3004969">
     <img src="https://img.shields.io/badge/Let's%20Connect!-FF6B6B?style=for-the-badge&logoColor=white" alt="Let's Connect" />
   </a>
 </div>
@@ -174,7 +174,7 @@
   <a href="https://www.reddit.com/user/CodeBoy142857/" target="_blank">
     <img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" alt="Reddit" />
   </a>
-  <a href="mailto:your-email@example.com" target="_blank">
+  <a href="mailto:hilal123anwar@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </div>
@@ -182,25 +182,28 @@
 <h2 align="left">📈 GitHub Analytics</h2>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Hilal-Anwar&theme=react&hide_border=true&include_all_commits=true&count_private=false" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=24F3004969&theme=react&hide_border=true&include_all_commits=true&count_private=false" alt="GitHub Stats" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hilal-Anwar&theme=react&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=24F3004969&theme=react&hide_border=true" alt="GitHub Streak" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hilal-Anwar&theme=react&hide_border=true&include_all_commits=true&count_private=false&layout=compact" alt="Top Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=24F3004969&theme=github_dark" alt="Top Languages" />
+</div>
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=24F3004969&theme=github_dark" alt="Top Languages" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Hilal-Anwar&theme=react-dark&hide_border=true" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=24F3004969&theme=react-dark&hide_border=true" alt="Activity Graph" />
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Hilal-Anwar&label=Profile%20Views&color=brightgreen&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=24F3004969&label=Profile%20Views&color=brightgreen&style=flat" alt="Profile Views" />
 </div>
 
 <div align="center">
